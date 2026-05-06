@@ -1,7 +1,10 @@
-# Downloaded list :
+# Downloads
 
-- [100MB](./100MB)
-- [MegaV_Public](./MegaV_Public)
+---
+
+## NO FILE DOWNLOADED YET!
+
+Use the download workflows to add files here.
 
 ---
 
